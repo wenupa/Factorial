@@ -3,7 +3,7 @@
 
 int main()
 {
-    int no,i;
+    int no,i,f;
     unsigned long long int fact=1;
     //f=factorial
     //no=input number
