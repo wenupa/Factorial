@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601575609 source:h:\queue implementation\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
