@@ -21,7 +21,7 @@ int main()
         {
             fact=f*i;
         }
-        printf("Factorial of %d= %d",no,f);
+        printf("Factorial of %d= %ull",no,f);
     }
 
 
